@@ -1,0 +1,21 @@
+{
+  "name": "tether",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testUsdt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "ethereum-input-data-decoder": "^0.4.1",
+    "ethereumjs-tx": "^2.1.2",
+    "express": "^4.18.1",
+    "web3": "^1.7.3",
+    "xhr2": "^0.2.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
